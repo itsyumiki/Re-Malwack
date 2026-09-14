@@ -8,7 +8,8 @@
 
 [![Module Version](https://img.shields.io/badge/Module_Version-v8.2-d51200?style=for-the-badge)](https://github.com/ZG089/Re-Malwack/releases/tag/v8.2)
 [![Download](https://img.shields.io/github/downloads/ZG089/Re-Malwack/total?style=for-the-badge&cacheSeconds=2&color=d51200)](https://github.com/ZG089/Re-Malwack/releases)
-[![Telegram Support group](https://img.shields.io/badge/Re--Malwack_Community-252850?style=for-the-badge&color=d51200&logo=telegram&logoColor=white)](https://t.me/Re_Malwack)
+[![Official Telegram Channel](https://img.shields.io/badge/Re--Malwack_Official_Channel-252850?style=for-the-badge&color=d51200&logo=telegram&logoColor=white)](https://t.me/remalwack)
+[![Official Telegram Support Chat](https://img.shields.io/badge/Re--Malwack_Community-252850?style=for-the-badge&color=d51200&logo=telegram&logoColor=white)](https://t.me/Re_Malwack)
 [![XDA Support thread](https://img.shields.io/badge/XDA_Support_thread-252850?style=for-the-badge&color=d51200&logo=xdadevelopers&logoColor=white)](https://xdaforums.com/t/re-malwack-revival-of-malwack-module.4690049/)
 [![Discord Server](https://img.shields.io/discord/1463971306054881302?style=for-the-badge&logo=discord&label=Re-Malwack%20Community&color=d51200&logoColor=d51200)](https://discord.gg/6fgQCJWY2F)
 [![Personal acc on XDA](https://img.shields.io/badge/Contact_Developer_on-XDA-252850?style=for-the-badge&color=d51200&logo=xdadevelopers&logoColor=d51200)](https://xdaforums.com/m/ZG089.11432109/)
